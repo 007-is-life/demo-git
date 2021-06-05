@@ -22,6 +22,7 @@ public class HelloServlet extends HttpServlet {
         out.println("</body></html>");
         System.out.println("开发人员2写的第二个句话");
         System.out.println("开发人员2写的第三句话");
+        System.out.println("开发人员2写的第四句话");
     }
         //开发人员写了一个注释
     public void destroy() {
